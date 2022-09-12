@@ -235,6 +235,16 @@ sup {
     transition: all 0.3s linear;
 }
 
+.btn {
+    border: none;
+    width: 140px;
+    margin-top: 15px;
+    margin-left: 46%;
+    border-radius: 2rem;
+   background-color: #009ad8;
+   color: #fff;
+}
+
 /* error page style  */
 .errimg img {
     width: 60rem;
